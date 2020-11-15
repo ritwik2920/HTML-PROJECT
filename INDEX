@@ -1,0 +1,180 @@
+Index:
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<style>
+.mySlides {display:none;}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+nav{
+  width: 100%;
+  height: 80px;
+  background-color: #000;
+  line-height: 80px; 
+}
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  transition: 0.8s all;
+}
+nav ul li:hover{
+  background-color: #f39d1a;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 30px;
+}
+</style>
+	<body >
+	 <div> 
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about us.html">About Us</a></li>
+          <li><a href="domestic.html">Domestic Holiday</a></li>
+          <li><a href="international.html">International Holiday</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li style="float:right"><a href="contact.html">Contact Us</a></li>
+        </ul>  
+      </nav>
+    <a href="index.html"><img src="https://www.freelogoservices.com/api/main/images/1j+ojl1KOMkX9WyofBe43D6ki...+IqxRPkR7IwXs1M3EMoAJtlSUkg...Fr8vg4" width="300px" height="150px"></a>
+    </div>
+    <div>
+<div style="background-color:white;width:100%;overflow: hidden;position: absolute; display:block;">
+<div class="w3-content w3-section">
+  <img class="mySlides w3-animate-left" src="https://images.pexels.com/photos/2372739/pexels-photo-2372739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 " style="width:100%;height: 500px">
+  <img class="mySlides w3-animate-left" src="https://images.pexels.com/photos/2333750/pexels-photo-2333750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="width:100%; height: 500px">
+  <img class="mySlides w3-animate-left" src="https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="width:100%;height: 500px">
+  <img class="mySlides w3-animate-left" src="https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="width:100%;height: 500px">
+</div>
+</div>
+</div>
+<div><h3 style="margin-top:530px" >Welcome to R.D. tours and Travels</h3><p><br>Exciting travel destinations, exotic locales, serene atmosphere, plush accommodation, adrenalin-pumping adventures, pilgrimage tours or rustic wilderness- whatever is the format of your holiday, we have exclusive tour packages for you. With a traditional, yet, tech-savvy and professional approach to travel management, we have emerged as the most preferred tour operator for corporate and family holidays.</p><br>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Rome">
+    <img src="https://images.pexels.com/photos/1796736/pexels-photo-1796736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Rome" width="600px" height="500px">
+  </a>
+  <div class="desc"><b><i>ROME</i></b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Greece">
+    <img src="https://images.pexels.com/photos/161815/santorini-oia-greece-water-161815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Greece" width="600" height="400">
+  </a>
+  <div class="desc"><b><i>GREECE</i></b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Paris">
+    <img src="https://images.pexels.com/photos/2082103/pexels-photo-2082103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Eiffel tower" width="600" height="400">
+  </a>
+  <div class="desc"><b><i>PARIS</i></b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://en.wikipedia.org/wiki/London">
+    <img src="https://images.pexels.com/photos/50632/pexels-photo-50632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="London" width="600" height="400">
+  </a>
+  <div class="desc"><b><i>LONDON</i></b></div>
+</div><br><br><br><br>
+<h1><br><br>Our Clients</h1><br>
+      <a href"https://www.expedia.co.in/"><img src="https://www.asiamiles.com/content/dam/am-content/brand-v2/travel-pillar/logo-image/Expedia/1500x900_logoluggage.png" width="100px" height="100px"></a>
+      <a href="https://www.airtel.in/"><img src="https://www.bgr.in/wp-content/uploads/2014/07/airtel-logo21.jpg"width="100px" height="100px"></a>
+      <a href="https://www.icicibank.com/"><img src="https://image3.mouthshut.com/images/imagesp/925004492s.jpg" width="100px" height="100px"></a>
+      <a href="http://www.cuchd.in/"><img src="http://www.cuchd.in/about/images/chandigarh-university-seal.png" width="300px" height="100px"></a>
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2500);    
+}
+</script>
+    <div id="contactbottom">
+<h2 id="bottomheadingh2">&nbsp;&nbsp;&nbsp;CONTACT US</h2>
+<div id="contactbottom2">
+<a id="maps" href="https://www.google.com/maps/search/570+%2F+7,+First+Floor,+Anna+Salai,+Teynampet,Chennai+-+600+018,Tamil+Nadu,+India./@13.0462693,80.2458674,17z/data=!3m1!4b1"><div><i class="fa fa-home"></i><strong>Address:</strong> # 570 / 7, First Floor, Anna Salai, Teynampet,Chennai - 600 018,Tamil Nadu, India.</div></a>
+<br>
+<div><strong>Phone:</strong> +91 44 4214 7732,
++91 44 2435 5578</div>
+<div><strong>Mobile:</strong> + 91 98846 00494</div>
+<br>
+<a id="maps" href="https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Drm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><div><strong>Email:</strong> sales@rdtours&travel.com</div></a>
+<br>
+<div>
+<span><a href="https://twitter.com/"><img id="twitter" src="https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B.png" width="22px" height="22px"></a></span>
+&nbsp;&nbsp;&nbsp;
+<span><a href="https://www.facebook.com/"><img id="facebook" src="https://store-images.s-microsoft.com/image/apps.34477.9007199266245907.4a4e2c37-33a9-40ae-8daf-c3b4776b9a89.41c21cd6-697f-4de5-b77c-4ef74a2bfedc?mode=scale&q=90&h=200&w=200&background=%234267B2" width="22px" height="22px"></a></span>
+&nbsp;&nbsp;&nbsp;
+<span><a href="https://www.youtube.com/"><img id="youtube" src="https://pbs.twimg.com/profile_images/1072104018695086081/2BviNNx__400x400.jpg" width="22px" height="22px"></a></span>
+&nbsp;&nbsp;&nbsp;
+<span><a href="https://www.instagram.com/"><img id="instagram" src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/79/81/7d/79817dd2-0c89-7951-1a88-85bcf84f74b7/Prod-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" width="22px" height="22px"></a></span>
+</div>
+<br>
+</div>
+<style>
+  #contactbottom{
+
+	background-color: black;
+	padding: 0px;
+	border-top: 3px solid black;
+	color: white;
+}
+#bottomheadingh2{
+	font-family: Bahnschrift SemiBold SemiConden;
+}
+#contactbottom2{
+	margin: 20px;
+	color: grey
+	
+}
+#maps{
+	color: grey;
+	text-decoration: none;
+}
+</style>
+</body>
+</html>
