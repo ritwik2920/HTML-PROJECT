@@ -1,0 +1,62 @@
+   <html>
+  <head>
+    <title>R.D tours & travels</title>
+    <link href="about us.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="main">
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about us.html">About Us</a></li>
+          <li><a href="domestic.html">Domestic Holiday</a></li>
+          <li><a href="international.html">International Holiday</a></li>
+          <li><a href="galler.html">Gallery</a></li>
+          <li style="float:right"><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+      <a href="index.html"><img src="https://www.freelogoservices.com/api/main/images/1j+ojl1KOMkX9WyofBe43D6ki...+IqxRPkR7IwXs1M3EMoAJtlSUkg...Fr8vg4" width="300px" height="150px"></a><br><br>
+    </div>
+    <br><br><br><br>
+    <h1><b><i>About Us</i></b></h1>
+      <br>
+      <p><b>R.D.Tours And Travels is synonymous with the exciting world of holiday travel, and is an expert in creating the most stunning travel deals, suitable to your plan and expectations.<br><br>
+      
+        R.D.Tours And Travels, a unit of Meka Hospitality Pvt Ltd has emerged as one of the most competitive and client-focused travel organizations in India. It had a humble beginning in 2004 as team dealing with Domestic and Outbound travel requirements of a handful of corporate companies. Today we have behind us a proven track record of 15 years of delivering completely satisfying holiday experiences, be it for our esteemed FIT clientele or scores of Outbound corporate groups. We gained the tremendous confidence and expertise to diversify successfully into Serviced apartments.</b><br><br>
+      </p><p><i>Mission, we pledge to work towards, each day:
+Continue to build on our core strength of Domestic and International Travel Planning Services and showcase the known and unknown facets of India to a growing, travel-savvy local and Inbound Clientele.</i></p><br><br>
+      <p><b>What Really Sets us Apart?</b></p><br><br>
+      <p>1)  Extensive Experience in handling Corporate Groups and FITs to Outbound destinations like Thailand, Singapore, Malaysia, Mauritius, Dubai, Egypt, China, Indonesia (Bali & Jakarta), Sri Lanka, Hong Kong, Macau and Maldives.</p><br>
+      <p>2)  Conferences, Dealer Meets, Incentive programs, Team Outings and Corporate outdoor training sessions are just some of the value-added services we offer to our corporate clients.</p><br>
+      <p>3)  A team that actually shares the passion for travel and exploration themselves. We pride ourselves on the critical experience gained while accompanying Domestic and Inbound groups to these destinations and also to countries in Far East and Middle East.</p><br>
+      <br>
+      <br>
+      <h1>Our Clients</h1><br>
+      <img src="https://www.asiamiles.com/content/dam/am-content/brand-v2/travel-pillar/logo-image/Expedia/1500x900_logoluggage.png" width="100px" height="100px">
+      <img src="https://www.bgr.in/wp-content/uploads/2014/07/airtel-logo21.jpg"width="100px" height="100px">
+      <img src="https://image3.mouthshut.com/images/imagesp/925004492s.jpg" width="100px" height="100px">
+      <img src="http://www.cuchd.in/about/images/chandigarh-university-seal.png" width="300px" height="100px">
+       <div id="contactbottom">
+<h2 id="bottomheadingh2">&nbsp;&nbsp;&nbsp;CONTACT US</h2>
+<div id="contactbottom2">
+<a id="maps" href="https://www.google.com/maps/search/570+%2F+7,+First+Floor,+Anna+Salai,+Teynampet,Chennai+-+600+018,Tamil+Nadu,+India./@13.0462693,80.2458674,17z/data=!3m1!4b1"><div><i class="fa fa-home"></i><strong>Address:</strong> # 570 / 7, First Floor, Anna Salai, Teynampet,Chennai - 600 018,Tamil Nadu, India.</div></a>
+<br>
+<div><strong>Phone:</strong> +91 44 4214 7732,
++91 44 2435 5578</div>
+<div><strong>Mobile:</strong> + 91 98846 00494</div>
+<br>
+<a id="maps" href="https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Drm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><div><strong>Email:</strong> sales@rdtours&travel.com</div></a>
+<br>
+<div>
+<span><a href="https://twitter.com/"><img id="twitter" src="https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B.png" width="22px" height="22px"></a></span>
+&nbsp;&nbsp;&nbsp;
+<span><a href="https://www.facebook.com/"><img id="facebook" src="https://store-images.s-microsoft.com/image/apps.34477.9007199266245907.4a4e2c37-33a9-40ae-8daf-c3b4776b9a89.41c21cd6-697f-4de5-b77c-4ef74a2bfedc?mode=scale&q=90&h=200&w=200&background=%234267B2" width="22px" height="22px"></a></span>
+&nbsp;&nbsp;&nbsp;
+<span><a href="https://www.youtube.com/"><img id="youtube" src="https://pbs.twimg.com/profile_images/1072104018695086081/2BviNNx__400x400.jpg" width="22px" height="22px"></a></span>
+&nbsp;&nbsp;&nbsp;
+<span><a href="https://www.instagram.com/"><img id="instagram" src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/79/81/7d/79817dd2-0c89-7951-1a88-85bcf84f74b7/Prod-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" width="22px" height="22px"></a></span>
+</div>
+<br>
+</div>
+  </body>
+ </html>
